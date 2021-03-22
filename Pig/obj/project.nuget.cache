@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gzYdOt4i1J/snyQQuGX3DK0zu3vfblm9Y58a71ZKpvLvZGZXO74yKl6DO2n8aqhMJoY7GmRzT4c2h7aoNjAvgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\calvi\\Desktop\\GBC 20-21 (Year 2)\\Winter Semester\\COMP 2139\\Labs\\Week11\\Pig\\Pig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\calvi\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.4\\microsoft.aspnetcore.jsonpatch.5.0.4.nupkg.sha512",
+    "C:\\Users\\calvi\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.4\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.4.nupkg.sha512",
+    "C:\\Users\\calvi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\calvi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\calvi\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
